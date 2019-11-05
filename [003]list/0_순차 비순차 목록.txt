@@ -1,0 +1,8 @@
+ul 비순차
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/ul
+
+ol 순차
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/ol
+
+li 목록
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/li

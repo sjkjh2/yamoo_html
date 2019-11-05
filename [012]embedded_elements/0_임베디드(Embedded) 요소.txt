@@ -1,0 +1,37 @@
+<picture> HiDPI 반응형 이미지 대응 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/picture
+
+<source> 다중 미디어 리소스 지정 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/source
+
+<video> 동영상 콘텐츠 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/video
+
+<audio> 오디오 콘텐츠 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/audio
+
+<track> 트랙 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/track
+
+WebVTT 자막 파일 → MDN
+https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API
+
+Track 엘리먼트 기초 → HTML5 Rocks
+https://www.html5rocks.com/ko/tutorials/track/basics/
+
+<iframe> 인라인 프레임 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/iframe
+
+<map> 이미지 맵(클릭 가능한 링크 영역) 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/map
+
+<area> 이미지의 핫스팟(hotspot) 영역 지정 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/area
+
+SVG: Scalable Vector Graphic → MDN
+https://developer.mozilla.org/ko/docs/Web/SVG
+
+MathML: Mathematical Markup Language → MDN
+https://developer.mozilla.org/ko/docs/Web/MathML
+
+semantics embedded content → HTML 5.2 표준 기술 사양

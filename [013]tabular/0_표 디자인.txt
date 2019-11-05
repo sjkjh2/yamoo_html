@@ -1,0 +1,32 @@
+table 테이블 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/table
+
+caption 테이블 제목 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/caption
+
+col 테이블 열 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/col
+
+colgroup 테이블 열 그룹 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/colgroup
+
+tr 테이블 행 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/tr
+
+thead 테이블 헤더 행 블록 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/thead
+
+tbody 테이블 바디 블록 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/tbody
+
+tfoot 테이블 푸터 행 블록 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/tfoot
+
+th 테이블 제목 셀 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/th
+
+td 테이블 내용(데이터) 셀 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/td
+
+Tabular Data → HTML 5.2 표준 기술 사양
+https://html.spec.whatwg.org/multipage/tables.html#tabular-data

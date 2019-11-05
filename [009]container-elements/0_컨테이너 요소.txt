@@ -1,0 +1,11 @@
+<div> 디비전(Division) 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/div
+
+<span> 스팬(Span) 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/span
+
+the div element → HTML5 표준 기술 사양
+https://html.spec.whatwg.org/multipage/grouping-content.html#the-div-element
+
+the span element → HTML5 표준 기술 사양
+https://html.spec.whatwg.org/multipage/grouping-content.html#the-span-element

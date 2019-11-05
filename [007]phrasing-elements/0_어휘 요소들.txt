@@ -1,0 +1,11 @@
+strong 중요성 강조
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/strong
+
+em 강조
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/em
+
+b 중요성, 관련성 없이 다른 글자와 구분을 목적으로 사용 되는 요소
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/b
+
+i 다른 글자와 구분되는 기술적 용어, 관용구, 생각 등에 사용 되는 요소
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/i

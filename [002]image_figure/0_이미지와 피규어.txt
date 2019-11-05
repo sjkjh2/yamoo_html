@@ -1,0 +1,8 @@
+img
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/img
+
+figure
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/figure
+
+figcaption
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/figcaption

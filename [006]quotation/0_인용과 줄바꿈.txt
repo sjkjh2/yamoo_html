@@ -1,0 +1,11 @@
+q 인라인 인용요소
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/q
+
+cite 창작물 참조 요소
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/cite
+
+blockquote 블록 인용 요소
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/blockquote
+
+br 줄바꿈 요소
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/br
