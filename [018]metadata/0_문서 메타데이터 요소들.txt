@@ -1,0 +1,20 @@
+<head> 헤드 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/head
+
+<title> 문서 타이틀 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/title
+
+<meta> 메타 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/meta
+
+<link> 링크 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/link
+
+<style> 스타일 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/style
+
+<base> 베이스 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/base
+
+Document Metadata → HTML 5.2 표준 기술 사양
+https://html.spec.whatwg.org/multipage/semantics.html

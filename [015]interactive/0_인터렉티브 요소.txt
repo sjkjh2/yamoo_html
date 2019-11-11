@@ -1,0 +1,11 @@
+<details> 보다 자세한 추가 정보를 제공하는 위젯 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/details
+
+<summary> details 요소 내부에 추가되는 레이블(제목) 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/summary
+
+<dialog> 다이얼로그(대화상자) 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/dialog
+
+Interactive Elements → HTML 5.2 표준 기술 사양
+https://html.spec.whatwg.org/multipage/interactive-elements.html#interactive-elements

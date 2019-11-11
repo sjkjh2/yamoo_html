@@ -1,0 +1,17 @@
+hidden 속성 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Global_attributes/hidden
+
+tabindex 속성 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Global_attributes/tabindex
+
+accesskey 속성 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Global_attributes/accesskey
+
+contenteditable 속성 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Global_attributes/contenteditable
+
+draggable 속성 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Global_attributes/draggable
+
+User Interaction → HTML 5.2 표준 기술 사양
+https://html.spec.whatwg.org/multipage/interaction.html#editing

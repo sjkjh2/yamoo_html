@@ -1,0 +1,11 @@
+<script> 스크립트 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/script
+
+<noscript> 노 스크립트 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/noscript
+
+<canvas> 캔버스 요소 → MDN
+https://developer.mozilla.org/ko/docs/Web/HTML/Canvas
+
+Scripting → HTML 5.2 표준 기술 사양
+https://html.spec.whatwg.org/multipage/scripting.html#semantics-scripting
